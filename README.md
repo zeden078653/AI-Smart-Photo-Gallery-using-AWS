@@ -60,3 +60,4 @@ AI-Smart-Photo-Gallery/
 ├── README.md           # Documentation
 Author
 Mohammad Aman
+LinkedIn | GitHub
