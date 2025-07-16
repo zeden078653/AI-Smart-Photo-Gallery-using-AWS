@@ -26,9 +26,6 @@ This project allows users to:
 
 Frontend (HTML) ---> API Gateway ---> Lambda ---> S3 + Rekognition
 
-markdown
-Copy
-Edit
 
 ---
 
@@ -45,7 +42,7 @@ Edit
 
 ### **2️⃣ Frontend**
 
-- Open `index.html` locally in browser  
+- Open `index.html` locally in a browser  
 - Use:
 
 ```bash
