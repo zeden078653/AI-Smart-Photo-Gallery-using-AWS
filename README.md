@@ -1,5 +1,6 @@
 # AI-Smart-Photo-Gallery-using-AWS
 A fully serverless AI-powered photo gallery using **AWS Free Tier services**.
+link: https://s3.us-east-1.amazonaws.com/photo.gallery.frontend/index.html
 
 ## **Overview**
 
